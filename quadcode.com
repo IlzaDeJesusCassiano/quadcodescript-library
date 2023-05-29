@@ -6,3 +6,4 @@ Quadcode Script Library
 This repository contains the source code of the built-in instruments of the Quadcode trading platform. 
 
 The documentation is available at https://quadcode-tech.github.io/quadcodescript-docs/
+https://www.privacypolicyonline.com/live.php?token=xctriXDa9SxWh5sN2pFfwMmmugiPJVqu
